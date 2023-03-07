@@ -6,7 +6,7 @@
   </a>
   
   <a href="">
-    <img alt="" title="" target="_blank" src="https://img.shields.io/badge/Portfolio%3A-Monika%20Szucs's%20Website-blue">
+    <img alt="" title="" target="_blank" src="">
   </a>
   
   
